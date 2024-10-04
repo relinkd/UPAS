@@ -9,6 +9,22 @@
 3. [UPAS_example](https://github.com/relinkd/upas_example_site): Example project site
 4. [UPAS_marketplace](https://github.com/relinkd/upas_marketplace): Frontend and backend for marketplace
 
+## Mainnet
+
+**dapps**
+
+[example_frontend](https://4zjqf-oyaaa-aaaal-qmzuq-cai.icp0.io)
+[hub](https://4qk3z-yqaaa-aaaal-qmzva-cai.icp0.io)
+[marketplace](https://46iwr-daaaa-aaaal-qmzua-cai.icp0.io)
+
+**candides**
+
+[example_backend](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=yb7fs-4qaaa-aaaal-qmzna-cai)
+[icrc7](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=yuyu7-5yaaa-aaaal-qmzoq-cai)
+[indexer](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=5tgs7-miaaa-aaaal-qmztq-cai)
+[achievement](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=yg6dg-riaaa-aaaal-qmznq-cai)
+[reputation_module](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=ytzsl-qaaaa-aaaal-qmzoa-cai)
+
 ## Deployment Instructions
 
 1. Navigate to the `public-achievements` directory and run: `dfx deploy`
