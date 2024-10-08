@@ -13,17 +13,17 @@
 
 **dapps**
 
-[example_frontend](https://4zjqf-oyaaa-aaaal-qmzuq-cai.icp0.io)
-[hub](https://4qk3z-yqaaa-aaaal-qmzva-cai.icp0.io)
-[marketplace](https://46iwr-daaaa-aaaal-qmzua-cai.icp0.io)
+[example_frontend](https://5j4ti-jqaaa-aaaaj-qncma-cai.icp0.io)
+[hub](https://4dtrs-laaaa-aaaaj-qncla-cai.icp0.io)
+[marketplace](https://4kq2o-5iaaa-aaaaj-qnckq-cai.icp0.io)
 
 **candides**
 
-[example_backend](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=yb7fs-4qaaa-aaaal-qmzna-cai)
-[icrc7](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=yuyu7-5yaaa-aaaal-qmzoq-cai)
-[indexer](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=5tgs7-miaaa-aaaal-qmztq-cai)
-[achievement](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=yg6dg-riaaa-aaaal-qmznq-cai)
-[reputation_module](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=ytzsl-qaaaa-aaaal-qmzoa-cai)
+[example_backend](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=4esxg-gyaaa-aaaaj-qnclq-cai)
+[icrc7](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=4ywnx-ryaaa-aaaaj-qncjq-cai)
+[indexer](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=4nr42-qqaaa-aaaaj-qncka-cai)
+[achievement](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=4wua7-kiaaa-aaaaj-qnciq-cai)
+[reputation_module](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=47xld-4aaaa-aaaaj-qncja-cai)
 
 ## Deployment Instructions
 
